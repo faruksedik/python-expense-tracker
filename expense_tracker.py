@@ -69,12 +69,12 @@ class ExpenseDatabase:
         self.expenses.append(expense)
 
 
-    def remove_expense(self, expense):
+    def remove_expense(self, expense_id):
         
         """
         Removes an Expense object from the database.
         """
-        self.expenses = [exp for exp in self.expenses if exp.id != expense.id]
+        self.expenses = [exp for exp in self.expenses if exp.id != expense_id]
 
     
     def get_expense_by_id(self, expense_id):

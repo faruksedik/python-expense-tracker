@@ -2,8 +2,7 @@
 # Python Expense Tracker
 
 ## Author
-- **Faruk Sedik**
-- **Alt School Africa Student**
+- **Name: Faruk Sedik**
 
 
 ## Project Overview
