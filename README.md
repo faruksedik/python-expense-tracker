@@ -11,7 +11,7 @@ The Python Expense Tracker is a simple yet effective application that demonstrat
 - **Expense**: Represents an individual expense with attributes like a unique ID, title, amount, creation timestamp, and update timestamp. It also provides methods to update the expense details and convert the expense to a dictionary.
 - **ExpenseDatabase**: Manages a collection of Expense objects. It supports adding, removing, and retrieving expenses (by ID or title) as well as outputting the complete list of expenses in a dictionary format.
 
-In addition to these classes, the project includes an __inity__.py file to structure the project as a package and a main.py file that serves as the entry point for running the application.
+In addition to these classes, the project includes an **__inity__.py** file to structure the project as a package and a **main.py** file that serves as the entry point for running the application.
 
 This project is ideal for understanding how to structure Python code using classes and handling data in a clean, maintainable manner.
 
