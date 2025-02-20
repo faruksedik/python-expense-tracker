@@ -13,6 +13,8 @@ The Python Expense Tracker is a simple yet effective application that demonstrat
 
 In addition to these classes, the project includes an **__inity__.py** file to structure the project as a package and a **main.py** file that serves as the entry point for running the application.
 
+I also added an **example.py** to show that the classes and methods are working correctly
+
 This project is ideal for understanding how to structure Python code using classes and handling data in a clean, maintainable manner.
 
 ## Features
